@@ -1,0 +1,1 @@
+docker run -d --name agent-harness --env-file .env
