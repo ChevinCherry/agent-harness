@@ -1,1 +1,1 @@
-docker built -t agent-harness container
+docker build -t agent-harness container
